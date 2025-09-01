@@ -1,0 +1,8 @@
+query GetEpisode {
+  episode(id: 1) {
+    name
+    id
+    air_date
+    episode
+  }
+}
