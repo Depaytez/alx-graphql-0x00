@@ -13,6 +13,14 @@ The goal is to practice constructing precise GraphQL queries to request specific
 6. character-id-3-output.json: JSON output for character ID 3.
 7. character-id-4.graphql: Query for character ID 4.
 8. character-id-4-output.json: JSON output for character ID 4.
+9.  characters-page-1.graphql
+10. characters-page-1-output.json
+11. characters-page-2.graphql
+12. characters-page-2-output.json
+13. characters-page-3.graphql
+14. characters-page-3-output.json
+15. characters-page-4.graphql
+16. characters-page-4-output.json
 
 ## How It Was Done
 * Each query was written and tested using the GraphiQL interface at https://rickandmortyapi.com/graphql.
